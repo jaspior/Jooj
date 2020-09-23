@@ -5,7 +5,7 @@ gdjs.evtsExt__Game__Record.conditionTrue_0 = {val:false};
 gdjs.evtsExt__Game__Record.condition0IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Game__Record.userFunc0x684bd0 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Game__Record.userFunc0x6bc7a8 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 //recebe o objeto
 const object = eventsFunctionContext.getObjects("Object")[0]
@@ -44,7 +44,7 @@ gdjs.evtsExt__Game__Record.eventsList0 = function(runtimeScene, eventsFunctionCo
 {
 
 
-gdjs.evtsExt__Game__Record.userFunc0x684bd0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__Game__Record.userFunc0x6bc7a8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
